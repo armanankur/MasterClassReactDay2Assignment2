@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.formcontainer {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+.leftside {
+  margin-left: 2rem;
+}
+.rightside {
+  margin-right: 5rem;
+}
+.tableContainer {
+  margin-top: 5rem;
+}
+table {
+  width: 90vw;
+}
+span {
+  cursor: pointer;
+}
